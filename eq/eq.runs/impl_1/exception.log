@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file D:\OneDrive - USN\2_SCH4300\1_VHDL\VHDL PROJECTS\FPGA PROTOTYPING\eq\eq.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied
