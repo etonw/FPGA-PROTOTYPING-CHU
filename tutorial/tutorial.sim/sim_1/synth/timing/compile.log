@@ -1,5 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA PROTOTYPING/tutorial/tutorial.sim/sim_1/synth/timing/counter_tb_time_synth.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module counter
-INFO: [VRFC 10-311] analyzing module glbl
-INFO: [VRFC 10-163] Analyzing VHDL file "D:/FPGA PROTOTYPING/tutorial/tutorial.srcs/sim_1/new/counter_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity counter_tb
