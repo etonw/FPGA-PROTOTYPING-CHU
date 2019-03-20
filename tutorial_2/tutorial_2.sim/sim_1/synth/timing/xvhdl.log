@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/FPGA_PRO/tutorial_2/tutorial_2.srcs/sim_1/new/counter_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity counter_tb
+ERROR: [VRFC 10-1412] syntax error near 12 [C:/FPGA_PRO/tutorial_2/tutorial_2.srcs/sim_1/new/counter_tb.vhd:12]
+ERROR: [VRFC 10-719] formal port/generic <clk> is not declared in <counter> [C:/FPGA_PRO/tutorial_2/tutorial_2.srcs/sim_1/new/counter_tb.vhd:37]
+ERROR: [VRFC 10-704] formal reset has no actual or default value [C:/FPGA_PRO/tutorial_2/tutorial_2.srcs/sim_1/new/counter_tb.vhd:36]
+ERROR: [VRFC 10-1504] unit behavior ignored due to previous errors [C:/FPGA_PRO/tutorial_2/tutorial_2.srcs/sim_1/new/counter_tb.vhd:7]
+INFO: [VRFC 10-240] VHDL file C:/FPGA_PRO/tutorial_2/tutorial_2.srcs/sim_1/new/counter_tb.vhd ignored due to errors
