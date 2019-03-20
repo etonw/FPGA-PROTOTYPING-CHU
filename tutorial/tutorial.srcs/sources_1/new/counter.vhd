@@ -1,24 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 10.03.2019 10:24:01
--- Design Name: 
--- Module Name: counter - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
-
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
@@ -45,8 +24,6 @@ architecture Behavioral of counter is
     signal count_int : STD_LOGIC_VECTOR(15 downto 0) := (others => '0');
 
 begin
-
-
 
 process (clk)
 begin
